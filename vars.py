@@ -1,7 +1,7 @@
-api_id = 35814071 #change_with_your_Api_id.
-api_hash = "80c231f0e8704995b8259d06965n4351" #change_with_your_Api_hash.
-bot_token = "7198600769:AAHfVi7qTaMw20HbpvPrF-fnP77-sWdOthI" #change_with_your_bot_token.
-auth_users = [999741495] #change_with_your_user_id.
+api_id = 20288951 #change_with_your_Api_id.
+api_hash = " e8cb5fb7a475b5f5eb3b0ef0e6ca03a8" #change_with_your_Api_hash.
+bot_token = "7827028145:AAGNcXFT5i4rQVHazLXdQqwPtF7D3Hg0ZOM" #change_with_your_bot_token.
+auth_users = [1619650029] #change_with_your_user_id.
 sudo_user = 1713924419 #change_with_your_user_id.
-log_channel = -1002154281532 #change_with_your_channel_id.
-txt_channel = -1002154281532 #change_with_your_channel_id.
+log_channel = -2610518336 #change_with_your_channel_id.
+txt_channel = -2538173763 #change_with_your_channel_id.
